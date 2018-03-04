@@ -1,3 +1,2 @@
-# Binary Tree Algorithms
-
-An interesting database structure to store and retrieve and manage the IP addresses according to their names.
+# Circuit Solver
+A project to solve any kind of circuit if user provides resistor values
